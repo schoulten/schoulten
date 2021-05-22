@@ -1,6 +1,6 @@
 <h3 align="center">Economist, Macro Research, #rstats</h3>
 
-- 🔭 I'm an economist at @analisemacro
+- 🔭 I'm an economist at [@analisemacro](https://github.com/analisemacro)
 
 - 🌱 I’m currently learning **Shinyapps** and **R package development**
 
