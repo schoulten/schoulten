@@ -1,6 +1,6 @@
 <h3 align="center">Economist, Macro Research, #rstats</h3>
 
-- 🔭 I’m currently #OpenToWork ([hire me!](https://fortietwo.com/files/Fernando-da-Silva.pdf))
+- 🔭 I'm an economist at @analisemacro
 
 - 🌱 I’m currently learning **Shinyapps** and **R package development**
 
