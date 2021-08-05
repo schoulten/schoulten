@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Shinyapps** and **R package development**
 
-- 📝 I regulary write articles on [fortietwo.com](https://fortietwo.com/)
+- 📝 I regulary write articles on [fortietwo.com](https://fortietwo.com/) and [analisemacro.com.br/blog](https://analisemacro.com.br/blog/)
 
 - 📫 How to reach me: **fernando@fortietwo.com**
 
