@@ -2,7 +2,7 @@
 
 - 🔭 Data Scientist at [@analisemacro](https://github.com/analisemacro)
 
-- 🌱 I’m currently learning **Shinyapps** and **R package development**
+- 🌱 I’m currently learning **Structural equation modeling (SEM)** and **Python**
 
 - 📝 I regulary write articles on [fortietwo.com](https://fortietwo.com/) and [analisemacro.com.br/blog](https://analisemacro.com.br/blog/)
 
