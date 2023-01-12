@@ -8,4 +8,4 @@
 
 - 📫 How to reach me: **fernando@fortietwo.com**
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=schoulten&show_icons=true" alt="schoulten" /></p>
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=schoulten&&show_icons=true&theme=dark)
