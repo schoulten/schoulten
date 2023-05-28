@@ -1,4 +1,4 @@
-<h3 align="center">Data Scientist and Economist</h3>
+<h3 align="center">Data Scientist</h3>
 
 - 🔭 Data Scientist at [@analisemacro](https://github.com/analisemacro)
 
